@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Documents.F\\My Work\\TestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|f:\\documents.f\\my work\\testapi\\testapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|f:\\documents.f\\my work\\testapi\\testapi\\views\\department\\getdepartments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|solutionrelative:testapi\\views\\department\\getdepartments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|f:\\documents.f\\my work\\testapi\\testapi\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|solutionrelative:testapi\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|f:\\documents.f\\my work\\testapi\\testapi\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|solutionrelative:testapi\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|f:\\documents.f\\my work\\testapi\\testapi\\views\\department\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|solutionrelative:testapi\\views\\department\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|f:\\documents.f\\my work\\testapi\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|f:\\documents.f\\my work\\testapi\\testapi\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|solutionrelative:testapi\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|f:\\documents.f\\my work\\testapi\\testapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0325D61-62D0-484A-ABF5-BC7E133B2017}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TestApi\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "TestApi\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T12:02:02.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "TestApi\\Views\\Department\\Update.cshtml",
+              "ToolTip": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "TestApi\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T11:16:50.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetById.cshtml",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\GetById.cshtml",
+              "RelativeDocumentMoniker": "TestApi\\Views\\Department\\GetById.cshtml",
+              "ToolTip": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\GetById.cshtml",
+              "RelativeToolTip": "TestApi\\Views\\Department\\GetById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T09:55:59.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "TestApi\\Views\\Department\\Create.cshtml",
+              "ToolTip": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "TestApi\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T09:21:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDepartments.cshtml",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\GetDepartments.cshtml",
+              "RelativeDocumentMoniker": "TestApi\\Views\\Department\\GetDepartments.cshtml",
+              "ToolTip": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Views\\Department\\GetDepartments.cshtml",
+              "RelativeToolTip": "TestApi\\Views\\Department\\GetDepartments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T07:02:34.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "TestApi\\Models\\Department.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Models\\Department.cs",
+              "RelativeToolTip": "TestApi\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:42:15.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestApi\\Program.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Program.cs",
+              "RelativeToolTip": "TestApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:41:12.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\DepartmentController.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\TestApi\\TestApi\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:40:45.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

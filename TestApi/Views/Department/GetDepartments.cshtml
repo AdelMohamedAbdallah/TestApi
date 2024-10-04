@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Department>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetDepartments</title>
+</head>
+<body>
+    <table class=" table table-hover table-striped table-bordered">
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>Name</td>
+                <td>Code</td>
+            </tr>
+            
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <th>@item.Department_Id</th>
+                    <th>@item.Department_Name</th>
+                    <th>@item.Department_Code</th>
+                    <th><a asp-controller="Department" asp-action="GetById" asp-route-id="@item.Department_Id">Details</a></th>
+                    <th><a asp-controller="Department" asp-action="Update" asp-route-id="@item.Department_Id">Update</a></th>
+                    <th><a asp-controller="Department" asp-action="Delete" asp-route-id="@item.Department_Id">Delete</a></th>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</body>
+</html>

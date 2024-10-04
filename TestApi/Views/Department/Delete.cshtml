@@ -1,0 +1,31 @@
+﻿@model Department
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <form asp-controller="Department" asp-action="Delete" class=" form-group">
+        <input type="hidden" asp-for="Department_Id" class="form-control" />
+        <br />
+        <label asp-for="Department_Name">Department Name</label>
+        <br />
+        <input type="text" asp-for="Department_Name" class="form-control" readonly />
+        <br />
+        <label asp-for="Department_Code">Department Code</label>
+        <br />
+        <input type="text" asp-for="Department_Code" class="form-control" readonly />
+        <br />
+        <center>
+            <input type="submit" value="Save" class="btn btn-success" />
+            <input type="reset" value="Reset" class="btn btn-warning" />
+        </center>
+    </form>
+</body>
+</html>

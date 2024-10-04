@@ -1,0 +1,27 @@
+﻿@model Department
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetById</title>
+</head>
+<body>
+
+    <form class=" form-group">
+        <br />
+        <label asp-for="Department_Name">Department Name</label>
+        <br />
+        <input type="text" asp-for="Department_Name" class="form-control" readonly />
+        <br />
+        <label asp-for="Department_Code">Department Code</label>
+        <br />
+        <input type="text" asp-for="Department_Code" class="form-control" readonly/>
+    </form>
+
+</body>
+</html>
